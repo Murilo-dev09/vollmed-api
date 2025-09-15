@@ -12,8 +12,8 @@ public record DadosCadastroMedico(
         @NotBlank
         String nome,
 
-        @NotBlank
-        @Email
+        @NotBlank(message = "Email é um campo obrigatório.")
+        @Email(message = "Formato do email inválido")
         String email,
 
         @NotBlank
