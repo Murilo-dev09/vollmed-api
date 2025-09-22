@@ -17,6 +17,7 @@ Projeto desenvolvido durante o curso de Spring Boot da [Alura](https://www.alura
 - Cadastro de pacientes
 - Exclusão, adição, modificação e listagem de médicos
 - Exclusão, adição, modificação e listagem de pacientes
+- Login e autenticação de usuários atravéz do Tolkien
 - Validações de regras de negócio
 
 ## 🧪 Como rodar o projeto
